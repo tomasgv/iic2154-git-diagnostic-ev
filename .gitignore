@@ -1,0 +1,6 @@
+# Data folder
+data
+
+# Auto-generated files
+.ipynb_checkpoints
+.DS_Store
